@@ -10,6 +10,7 @@ Master index of all reference files for running RMU tactical combat.
 - [Spellcasting](rules/spellcasting.md)  SCR formula, PP, spell preparation, concentration
 - [Injuries and Recovery](rules/injuries.md)  Hit loss penalties, bleeding, stun, healing
 - [Fear and Morale](rules/fear-and-morale.md)  Fear RR, morale checks, rally
+- [Special Maneuvers](rules/special-maneuvers.md)  Called shots, disarming, firing into melee, katas, protect, slaying, subdual, touch attacks
 
 ## Attack Tables
 - [War Hammer](attack-tables/war-hammer.md)  Grond's primary
